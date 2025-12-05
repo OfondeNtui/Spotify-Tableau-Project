@@ -1,0 +1,33 @@
+'Date': The reporting period for each data entry.
+
+'Total Revenue': The total earnings from both premium subscriptions and advertising.
+
+'Cost of Revenue': Expenses incurred by Spotify to deliver its services, including infrastructure and content costs.
+
+'Gross Profit': The difference between Total Revenue and Cost of Revenue, representing Spotify's profitability before other expenses.
+
+'Premium Revenue': The revenue generated exclusively from Spotify's premium subscription services.
+
+'Premium Cost Revenue': The direct costs associated with delivering premium services.
+
+'Premium Gross Profit': The profit from premium services, calculated as Premium Revenue minus Premium Cost Revenue.
+
+'Ad Revenue': The revenue generated from Spotify's ad-supported services.
+
+'Ad Cost of Revenue': The direct costs associated with delivering ad-supported services.
+
+'Ad Gross Profit': The profit from ad-supported services, calculated as Ad Revenue minus Ad Cost of Revenue.
+
+'MAUs': Total Monthly Active Users, defined as the total count of premium and ad-supported users who consumed content within the last 30 days.
+
+'Premium MAUs': Users who have completed registration and activated a payment method for premium services.
+
+'Ad MAUs': Ad-supported users who consumed content within the last 30 days.
+
+'Premium ARPU': Average Revenue Per User for premium subscribers, calculated as the premium subscription revenue divided by the average daily number of premium subscribers.
+
+'Sales and Marketing Cost': Expenses related to promoting Spotify’s services and acquiring new customers.
+
+'Research and Development Cost': Expenses for developing new features, products, and technologies.
+
+'General and Administrative Cost': Operational expenses that include management, administration, and other overhead costs.
