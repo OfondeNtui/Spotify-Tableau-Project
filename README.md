@@ -24,7 +24,7 @@ Here are the key dashboards:
 [Tableau Dashboard](https://public.tableau.com/views/Book1_17434502154490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Strategy Dashboard
-Key KPIs include Ad MAUs, Conversion Rate, MAUs and Premium MAUs.
+Key KPIs include Premium MAUs, Gross Profit,and Premium Revenue.
 
 <img width="1437" height="695" alt="Screenshot 2025-05-23 at 22 28 27" src="https://github.com/user-attachments/assets/9a33fb5b-8bfe-4c62-9bba-9fb45819db8d" />
 
