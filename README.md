@@ -6,3 +6,5 @@ A Tableau project analyzing Spotify's revenue, user growth, and cost structure f
 - [Tableau Dashboard Overview](#tableau-dashboard-overview)
 - [Summary and Recommendation](#summary-and-recommendation)
 
+## Introduction
+
