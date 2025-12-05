@@ -18,3 +18,7 @@ This project analyzes Spotify’s performance data to deliver insights for three
 
 - Operations Management: Highlights operational KPIs to improve efficiency and enhance the user experience.
 
+## 📊 Tableau Dashboard
+Here are the key dashboards:
+View the live dashboard here: [Tableau Visualization](https://public.tableau.com/views/Book1_17434502154490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
