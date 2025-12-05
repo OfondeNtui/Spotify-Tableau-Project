@@ -40,7 +40,7 @@ Key KPIs include Premium MAUs, Gross Profit,and Premium Revenue.
 This analysis of Spotify’s business performance from 2017 to 2023 highlights critical trends across user growth, revenue generation, and operational efficiency. The dashboards were designed to support the needs of three key stakeholders: Strategy, Revenue, and Operations.
 
 ## Key Insights
-# 1. User Growth
+#### 1. User Growth
 Spotify achieved steady growth in both Ad-Supported and Premium MAUs from 2017 to 2022, with total MAUs peaking at 7,368 in 2022. Premium conversions remained strong at 3,271.
 However, 2023 shows a sharp decline across all user segments, accompanied by a significant drop in Premium ARPU from 19.80 (2022) to 3.20 (2023).
 This sudden downturn suggests a potential loss of high-value users and indicates emerging issues in retention, engagement, or monetization that need urgent investigation.
