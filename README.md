@@ -28,11 +28,11 @@ Key KPIs include Premium MAUs, Gross Profit,and Premium Revenue.
 
 <img width="1264" height="689" alt="Screenshot 2025-12-05 at 17 34 50" src="https://github.com/user-attachments/assets/8fa1d92b-5a83-4e96-9915-950620ca1a65" />
 
+
 ## Revenue Dashboard
-
 <img width="1437" height="695" alt="Screenshot 2025-05-23 at 22 28 27" src="https://github.com/user-attachments/assets/9a33fb5b-8bfe-4c62-9bba-9fb45819db8d" />
- 
- Operations Dashboard
 
+ 
+ ## Operations Dashboard
 <img width="1266" height="685" alt="Screenshot 2025-12-05 at 17 33 53" src="https://github.com/user-attachments/assets/bbb92876-5bce-42bc-b110-4136dfdf0cfb" />
 
